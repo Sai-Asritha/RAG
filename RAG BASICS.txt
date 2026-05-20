@@ -1,3 +1,13 @@
 RAG BASICS
 Link for generating API Key
 https://4d7906f0.isolation.zscaler.com/profile/aa0fc3ba-fc2b-4872-9833-83f26367d34b/zia-session/?controls_id=a04d4c94-fb5f-4b79-ae79-4e4613c9deb3&region=hyd&tenant=8be389a82b37&user=ac6d4060951e74f5aad9903cd4a89ada0a63ffe35401a0902a0763a43f113195&original_url=https%3A%2F%2Faistudio.google.com%2Fapi-keys%3Fhl%3Den%26project%3Dgen-lang-client-0182887436&key=sh-1&hmac=7a16e3e163f9502668188f37d0fa4e2e2c1ad78151e7bb0cbff720007c674384
+
+Commands to connect to  git
+git config --global user.name "Sai-Asritha"
+git config --global user.email "sunithathalisetty087@gmail.com"
+
+Installing package
+pip install langchain-google-genai
+
+Project by tutor
+https://github.com/jagrajsingh86/12-May---RAG-Basics/blob/main/ragdeepdive.ipynb
